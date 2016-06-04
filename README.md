@@ -1,9 +1,10 @@
 # ins2wsx
-Some weapons I liked from the Insurgency workshop! Mostly everything on the INS2 sweps page applies here. If the weapons below have issues, screech at me and I'll get to it doing whatever it is.
+Some weapons I liked from the Insurgency workshop! Mostly everything on the INS2 sweps page applies here.
+If the weapons below have issues, screech at me and I'll get to it doing whatever it is.
 
 Requirements:
-Insurgency 2 installed and mounted
-Knife Kitty's INS2 SWeps
+- Insurgency 2 installed and mounted
+- Knife Kitty's INS2 SWeps
 
 Credits:
 - AN94 http://steamcommunity.com/sharedfiles/filedetails/?id=523234964
